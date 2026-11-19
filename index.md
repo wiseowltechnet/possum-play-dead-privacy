@@ -4,9 +4,9 @@ title: Possum Run: Play Dead! Privacy Policy
 
 # Possum Run: Play Dead! Privacy Policy
 
-_Last updated: 4 November 2026_
+_Last updated: 18 November 2026_
 
-Possum Run: Play Dead! ("the app") is a game by macbeth76 ("we"). This policy explains what happens to your data.
+Possum Run: Play Dead! ("the app") is a game by Wise Owl Tech ("we"). This policy explains what happens to your data.
 
 ## What we collect
 **We do not collect, store or receive any personal data.** There are no accounts, no analytics and no servers operated by us. Your score and progress exist only on your device while you play and are never sent to us. Uninstalling the app removes the app and its on-device data.
